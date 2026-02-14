@@ -47,10 +47,8 @@ Admin :	Manage Users, Oversee System Health <br>
 
 
 ## 🧪 Testing
-![git1](git1.png)
-![git2](git2.png)
-![git3](git3.png)
-
+![git1](git1.jpg)
+![git2](git2.jpg)
 
 
 
