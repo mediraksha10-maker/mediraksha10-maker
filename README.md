@@ -1,65 +1,60 @@
+# **Mediraksha — E-Medical Services Platform**
+
+Mediraksha is a modern web application aimed at revolutionizing healthcare delivery by providing essential e-medical services. The platform enables patients to locate nearby hospitals, upload and manage medical documents, and allows doctors to review patient history and records online — all in one secure, user-friendly system. This project is developed to support accessible digital health records, improve coordination between patients and healthcare providers, and bring advanced medical services to users’ fingertips.
 
 
-## **Mediraksha — E-Medical Services Platform**
+## 🚀 Features
 
-Mediraksha is a modern web application aimed at revolutionizing healthcare delivery by providing essential e-medical services. The platform enables patients to locate nearby hospitals, upload and manage medical documents, and allows doctors to review patient history and records online — all in one secure, user-friendly system.
-
-This project is developed to support accessible digital health records, improve coordination between patients and healthcare providers, and bring advanced medical services to users’ fingertips.
-
-
-# 🚀 Features
-
-📍 Nearby Hospital Finder
+**📍 Nearby Hospital Finder :**
 Users can search for hospitals based on their current location or city to get directions and contact details.
 
-📄 Secure Medical Document Upload
+**📄 Secure Medical Document Upload :**
 Patients can upload medical reports, prescriptions, and test results. These documents are stored (locally or via cloud storage) and associated with their profile for later reference.
 
-👨‍⚕️ Doctor Review Workflow
+**👨‍⚕️ Doctor Review Workflow :**
 Doctors can log in to access patient records and review uploaded documents to provide care recommendations.
 
-🔐 Authentication & Authorization
+**🔐 Authentication & Authorization :**
 Role-based access: Patients, Doctors, and Admin roles with secure login/signup and session management.
 
-# 🛠️ Tech Stack
-Layer	Technology <br>
+## 🛠️ Tech Stack
+**Layer	Technology** <br>
 Frontend :	React <br>
 Backend :	Node.js, Express <br>
 Database :	MongoDB <br>
 Authentication :  JWT <br>
 
-# 🧠 Key Functionalities
-🔎 Hospital Search
+## 🧠 Key Functionalities
+**🔎 Hospital Search :**
 
 Users can find hospitals near a given location — this could be implemented using Google Maps API, OpenStreetMap, or any geo-location service to deliver relevant nearby facility information.
 
-📤 Document Upload & Management
+**📤 Document Upload & Management :**
 
-Patients upload medical documents (PDF, image formats, etc.).
+Patients upload medical documents (PDF, image formats, etc.). Files are securely stored and indexed per patient. Doctors can access and view these securely during consultations.
 
-Files are securely stored and indexed per patient.
-
-Doctors can access and view these securely during consultations.
-
-👥 User Authentication
+**👥 User Authentication :**
 
 Users can register/login as patients or doctors.
 Secure password hashing and token-based authentication ensures privacy.
 
 
-# 🎯 Usage Guide
-Role	Actions
-Patient :	Register, Login, Upload Medical Records, Search Nearby Hospitals
-Doctor :	Login, View Patient Cases, Review Uploaded Documents
-Admin :	Manage Users, Oversee System Health
+## 🎯 Usage Guide
+Role	Actions <br>
+Patient :	Register, Login, Upload Medical Records, Search Nearby Hospitals <br>
+Doctor :	Login, View Patient Cases, Review Uploaded Documents <br>
+Admin :	Manage Users, Oversee System Health <br>
 
 
-# 🧪 Testing
+## 🧪 Testing
+![git1](git1.png)
+![git2](git2.png)
+![git3](git3.png)
 
 
 
-# 📬 Contributing
 
+## 📬 Contributing
 We welcome contributions! ❤️
 
 
