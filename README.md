@@ -18,11 +18,12 @@ Doctors can log in to access patient records and review uploaded documents to pr
 Role-based access: Patients, Doctors, and Admin roles with secure login/signup and session management.
 
 ## 🛠️ Tech Stack
-**Layer	Technology** <br>
-Frontend :	React <br>
-Backend :	Node.js, Express <br>
-Database :	MongoDB <br>
-Authentication :  JWT <br>
+### Layer	Technology <br>
+**Frontend :**	React,tailwindcss, daisyui <br>
+**Backend :**	Node.js, Express <br>
+**Database :**	MongoDB, PostgreSql <br>
+**Authentication :**  JWT <br>
+**Api :**  leaflet, google cloud <br>
 
 ## 🧠 Key Functionalities
 **🔎 Hospital Search :**
@@ -40,24 +41,20 @@ Secure password hashing and token-based authentication ensures privacy.
 
 
 ## 🎯 Usage Guide
-Role	Actions <br>
-Patient :	Register, Login, Upload Medical Records, Search Nearby Hospitals <br>
-Doctor :	Login, View Patient Cases, Review Uploaded Documents <br>
-Admin :	Manage Users, Oversee System Health <br>
+### Role	Actions <br>
+**Patient :**	Register, Login, Upload Medical Records, Search Nearby Hospitals <br>
+**Doctor :**	Login, View Patient Cases, Review Uploaded Documents <br>
+**Admin :**	Manage Users, Oversee System Health <br>
 
 
-## 🧪 Testing
+## 🧪 App UI
 ![git1](git1.jpg)
 ![git2](git2.jpg)
 ![git3](git3.jpg)
 
 
 
-## 📬 Contributing
-We welcome contributions! ❤️
-
-
-# ***Created by Team Mediraksha***
+# ***By Team Mediraksha***
 
 
 <!--
